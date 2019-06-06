@@ -1,0 +1,8 @@
+{
+  "version" : "1.0 beta",
+  "declaration" : "../../js/Core/out.d.ts",
+  "namespace" : {
+    "prefix" : "Subpages.MainPage",
+    "mask" : "^Js\\.?(.+)$"
+  }
+}
